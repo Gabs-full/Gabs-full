@@ -8,11 +8,11 @@
  
 <div>
 <a href="https://github.com/Gabs-full">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=23Ant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabs-full&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Ant&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Antonio-Linux" height="30" width="40" src="https://www.svgrepo.com/show/184138/linux.svg">
+<img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://www.svgrepo.com/show/184138/linux.svg">
 <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
 <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
