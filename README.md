@@ -16,7 +16,7 @@
 <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
 <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
-<img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+<img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
 <img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/sql-file-3-109181.png">
 </div>
   ##
