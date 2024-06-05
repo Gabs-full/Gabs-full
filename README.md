@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://www.instagram.com/gabriel_.tech/?hl=en&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/o23n" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:menod3v@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://www.linkedin.com/in/gabriel-barros-a29a3a273/&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/Gabs-full)
