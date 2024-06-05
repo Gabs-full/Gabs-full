@@ -15,7 +15,7 @@
 <img align="center" alt="Antonio-Linux" height="30" width="40" src="https://www.svgrepo.com/show/184138/linux.svg">
 <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
 <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+<img align="center" alt="Gabriel-Javascript" height="30" width="40" src="[https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)">
 </div>
   ##
  
