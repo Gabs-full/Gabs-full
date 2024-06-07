@@ -1,36 +1,52 @@
-### Olá mundo, seja bem vindo ao meu perfil do GitHub 👋
- 
-- 🔭 Hoje eu trabalho como Analista de desenvolvimento ...
-- 🌱 Estudando JavaScript, Python, AWS, SQL e derivados ...
-- 🎓 FIAP - Cursando Engenharia de Software ...
-- 🥳 Tenho 20 anos ... 
-- 🥋 Gabriel Barros ...
- 
-<div>
-<a href="https://github.com/Gabs-full">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabs-full&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Ant&layout=compact&langs_count=7&theme=tokyonight"/>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+
+<div align-items="center">
+  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou o Antonio 🐊</h3>
+  <p align-items="right">
+    <img src="https://komarev.com/ghpvc/?username=23ant&color=green&style=flat-square" alt="Contador de Visitas" />
+  </p>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://www.svgrepo.com/show/184138/linux.svg">
-<img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
-<img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
-<img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-<img align="center" alt="Gabriel-Javascript" height="30" width="40" src="https://img.icons8.com/color/452/sql.png">
+
+<p align-items="center"> 
+  <samp>
+    「 Vivo e respiro o mundo do open source; para mim, a verdadeira fonte do conhecimento reside nas ferramentas gratuitas 」
+    <br>
+    <br>
+  </samp>
+  
+</p>
+<br>
+<br>
+<br> 
+
+[Readme in english](./README_ENG.md)   ㅤ( ͡❛ ᵜ ͡❛)ㅤ   [Readme en español](./README_ESP.md)  
+
+🐉 Analista DevOps | SRE | Cloud <br>
+💚 AWS Certificated: 1 <br>
+🐍 Tecnólogo em Redes de Computadores - Faculdade de Tecnologia Osasco <br>
+🦖 Aprendendo: `GitOps` `OpenTelemetry` `Kubefirst` `Golang` `AWS DevOps Engineer certification`
+
+<br> 
+
+<div align-items="center">
+
+## 🧩 Tecnologias e Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-green?style=flat&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-green?style=flat&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-green?style=flat&logo=centos&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-green?style=flat&logo=rocky-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-green?style=flat&logo=kali-linux&logoColor=white) ![Wolfi](https://img.shields.io/badge/Wolfi-green?style=flat) ![Terraform](https://img.shields.io/badge/Terraform-green?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-green?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-green?style=flat&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-green?style=flat&logo=sonarqube&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-green?style=flat&logo=istio&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-green?style=flat&logo=ansible&logoColor=white) ![GitOps](https://img.shields.io/badge/GitOps-green?style=flat&logo=gitops&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-green?style=flat&logo=argo&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-green?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-green?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-green?style=flat&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-green?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-green?style=flat&logo=github-actions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-green?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-green?style=flat&logo=prometheus&logoColor=white) ![cAdvisor](https://img.shields.io/badge/cAdvisor-green?style=flat) ![Zabbix](https://img.shields.io/badge/Zabbix-green?style=flat&logo=zabbix&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-green?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-green?style=flat&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-green?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-green?style=flat&logo=digitalocean&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-green?style=flat&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-green?style=flat&logo=redis&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-green?style=flat&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-green?style=flat&logo=visual-studio-code&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-green?style=flat&logo=swagger&logoColor=white) ![Go](https://img.shields.io/badge/Go-green?style=flat&logo=go&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-green?style=flat&logo=gnu-bash&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-green?style=flat&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-green?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-green?style=flat&logo=mariadb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-green?style=flat&logo=html5&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-green?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-green?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-green?style=flat&logo=apache&logoColor=white) ![Yaml](https://img.shields.io/badge/Yaml-green?style=flat&logo=yaml&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-green?style=flat&logo=datadog&logoColor=white) ![VIM](https://img.shields.io/badge/VIM-green?style=flat&logo=vim&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red_Hat-green?style=flat&logo=redhat&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-green?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-green?style=flat&logo=postman&logoColor=white)
+
+
+
+## 💹 Estatísticas
+
+<div align-item="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=23ant&show_icons=true&bg_color=ffffff&title_color=00C853&text_color=00C853&icon_color=00C853&border_color=00C853" alt="Estatísticas do GitHub" style="width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ant&layout=compact&bg_color=ffffff&title_color=00C853&text_color=00C853&icon_color=00C853&border_color=00C853" alt="Linguagens mais usadas" style="width: 400px;" />
 </div>
-  ##
+
+</div>
+
+##
+
+  ![Snake animation](https://github.com/23Ant/23Ant/blob/output/github-contribution-grid-snake.svg)
  
-<div> 
-<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="[https://www.instagram.com/gabriel_.tech/?hl=en&logo=instagram&logoColor=white" target="_blank](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white%22)"></a>
-<a href="https://www.twitch.tv/o23n" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:menod3v@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="[https://www.linkedin.com/in/gabriel-barros-a29a3a273/&logo=linkedin&logoColor=white" target="_blank](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white%22)"></a> 
-  ![Snake animation](https://github.com/Gabs-full)
 </div>
-<!---
-Gabs-full/Gabs-full is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
